@@ -1,0 +1,7 @@
+secret_notes.txt
+/.venv
+/output
+/DEE
+/demo
+/Main
+.env
